@@ -1,14 +1,12 @@
 # Data
-<html>
-	<body>
+Add files to git hub
 
-	  <div>
-		<ul>
-	<li>bricksl<\li>
-</ul>
-</div>
+cd ------ change directory
+dir ----- directory
+git status
+git add <file>
+git commit
+git push
 
-</body>
-</html>
 
 
