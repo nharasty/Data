@@ -97,7 +97,7 @@ public class EventPalooza extends Application
      */
     public void overRect(MouseEvent event)
     {
-        circ1.setFill(Color.RED);
+        circ1.setFill(Color.YELLOW);
         rect1.setFill(Color.RED);
     }
     
