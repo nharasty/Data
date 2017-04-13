@@ -87,7 +87,7 @@ public class EventPalooza extends Application
     public void leaveShape(MouseEvent event)
     {
         circ1.setFill(Color.BLACK);
-        rect1.setFill(Color.BLACK);
+        rect1.setFill(Color.GREEN);
     }
     
     /**
