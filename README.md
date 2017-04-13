@@ -1,14 +1,20 @@
 # Data
-<html>
-	<body>
+Add files to git hub
 
-<div>
- <ul>
- <li>bricksl</li>
-</ul>
-</div>
+cd ------ change directory dir ----- directory
 
-</body>
-</html>
+
+git status 
+
+
+git add <file>
+
+
+git commit (saves file)
+
+
+git push (sends to github)
+>>>>>>> 2ab3229491fa0b930001ed3811483a07cad659b2
+
 
 
