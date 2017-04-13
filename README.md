@@ -15,6 +15,10 @@ git commit (saves file)
 
 git push (sends to github)
 
+git add -A (adds all files)
+
+git add . (adds everything in directory)
+
 
 
 
