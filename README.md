@@ -2,9 +2,9 @@
 <html>
 	<body>
 
-	  <div>
-		<ul>
-	<li>bricksl<\li>
+<div>
+ <ul>
+ <li>bricksl</li>
 </ul>
 </div>
 
