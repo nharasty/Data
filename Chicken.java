@@ -33,6 +33,7 @@ public class EventPalooza extends Application
     private Circle circ1;
     private Rectangle rect1;
     private Circle circle;
+    private Circle circle2;
     private Group root;
     
     /**
