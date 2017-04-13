@@ -6,8 +6,14 @@ dir ----- directory
 
 
 git status 
+
+
 git add <file>
+
+
 git commit (saves file)
+
+
 git push (sends to github)
 
 
