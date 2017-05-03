@@ -1,6 +1,7 @@
 
 /**
  * Creates a 2d table generated with values
+ * Working with 2d tables
  * 
  * @author (Nicholas Harasty) 
  * @version (4/17/17)
